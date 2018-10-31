@@ -1,0 +1,22 @@
+{
+  "name": "commit",
+  "version": "0.0.1",
+  "description": "A simple utility to git commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghishadow/commit.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghishadow/commit/issues"
+  },
+  "homepage": "https://github.com/ghishadow/commit#readme",
+  "devDependencies": {
+    "electron": "^3.0.6"
+  }
+}
